@@ -1,4 +1,4 @@
-# Seasonal Agriculture Performance Analysis
+# 🌱Seasonal Agriculture Performance Analysis
 
 ## VOIS Major Project
 ## Edunet Foundation
@@ -8,7 +8,7 @@
 **AICTE STU ID:** STU6a66eedfe85331785130719
 
 
-### Project Overview
+## 📌 Project Overview
 
 This project analyzes agricultural performance across different seasons
 using data analytics and visualization techniques.
@@ -24,7 +24,7 @@ The analysis focuses on:
 - Correlation analysis
 - Statistical testing using ANOVA
 
-### Dataset
+### 📊 Dataset :
 
 The dataset contains agricultural records covering different:
 
@@ -37,7 +37,7 @@ The dataset contains agricultural records covering different:
 - Resource usage
 - Economic measures
 
-### Technologies Used
+### 🤖 Technologies Used :
 
 - Python
 - Pandas
@@ -47,7 +47,7 @@ The dataset contains agricultural records covering different:
 - SciPy
 - Google Colab / Jupyter Notebook
 
-### Key Findings
+### 📊 Key Findings :
 
 - Kharif showed the highest average yield.
 - Kharif showed the highest average profit.
@@ -57,8 +57,13 @@ The dataset contains agricultural records covering different:
 - Nitrogen was the strongest independent-variable correlation with yield.
 - ANOVA resulted in a p-value of 0.233, indicating no statistically significant difference in average yield between seasons.
 
-### Files
+### 📂 Repository Structure :
 
 - `Karen_Acharya_VOIS_Major_Project_PPT.pptx` — Project presentation
 - `Karen_Acharya_Seasonal_Agriculture_Performance_Data_Analytics.ipynb` — Complete analysis notebook
 - `seasonal_agriculture_performance_dataset.csv` — Dataset
+- `README.md` — Project documentation.
+ 
+
+
+
