@@ -1,6 +1,7 @@
 # Seasonal Agriculture Performance Analysis
 
 ## VOIS Major Project
+## Edunet Foundation
 
 **Student:** Karen Acharya
 
