@@ -7,6 +7,8 @@
 
 **AICTE STU ID:** STU6a66eedfe85331785130719
 
+**College Name:** Techno India University, Kolkata, West Bengal
+
 
 ## 📌 Project Overview
 
